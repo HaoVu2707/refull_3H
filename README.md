@@ -130,4 +130,4 @@ Những thư viện, framework nổi tiếng để xây dựng một ứng dụn
 
  Bên cạnh đó, xây dựng ứng dụng di động chúng ta có `Android` và `Swift` (lập trình ứng dụng iOS).
 
-**Chú ý: ** HTML và CSS không phải là ngôn ngữ lập trình, nó chỉ giúp định dạng website để hiển thị khi Client nhận phản hồi từ Server và các ngôn ngữ này là `ngôn ngữ markup`.
+***Chú ý: *** HTML và CSS không phải là ngôn ngữ lập trình, nó chỉ giúp định dạng website để hiển thị khi Client nhận phản hồi từ Server và các ngôn ngữ này là `ngôn ngữ markup`.
