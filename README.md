@@ -113,3 +113,21 @@ This is the report  our group
     -	Python: ngôn ngữ lập tình webservice, web application, cấu hình server..
     -	C/C++ : Lập trình các giao thức server, các module tối ưu hệ thống , lập trình server…
 
+# Các công nghệ để xây dựng một ứng dụng phía Client
+ Có rất nhiều công nghệ được nhắc đến trong thời gian gần đây và được lựa chọn trong việc xây dựng và phát triển ứng dụng phía Client. Xây dựng trang web cơ bản phía Front-End chúng ta có:
+
+ -   HTML
+ -   CSS
+ -   Javascript
+
+Những thư viện, framework nổi tiếng để xây dựng một ứng dụng web hoàn chỉnh phía Client đó là:
+
+ -    Vue.js
+ -    Angular
+ -    React
+
+ Trong đó `Angular` được coi là một `framework` hoàn chỉnh để xây dựng ứng dụng Web, được Google đầu tư xây dựng và phát triển, cộng đồng hỗ trợ đông đảo, nhiều sản phẩm công nghệ lớn sử dụng, có thể dùng để phát triển ứng dụng di động. 
+
+ Bên cạnh đó, xây dựng ứng dụng di động chúng ta có `Android` và `Swift` (lập trình ứng dụng iOS).
+
+**Chú ý: ** HTML và CSS không phải là ngôn ngữ lập trình, nó chỉ giúp định dạng website để hiển thị khi Client nhận phản hồi từ Server và các ngôn ngữ này là `ngôn ngữ markup`.
